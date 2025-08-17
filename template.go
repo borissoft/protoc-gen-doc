@@ -8,7 +8,7 @@ import (
 	"unicode"
 
 	"github.com/golang/protobuf/protoc-gen-go/descriptor"
-	"github.com/pseudomuto/protoc-gen-doc/extensions"
+	"github.com/borissoft/protoc-gen-doc/extensions"
 	"github.com/pseudomuto/protokit"
 )
 
